@@ -1,4 +1,6 @@
 # Sequence-Models
+Deep Learning Specialization - Course 5
+
 About this Course
 This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others. 
 
